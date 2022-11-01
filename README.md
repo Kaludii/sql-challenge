@@ -6,6 +6,8 @@ This assignment was divided into three parts: data modeling, data engineering, a
 
 Inspected the CSVs and sketched out an ERD of the tables. Tool Used: [http://www.quickdatabasediagrams.com](http://www.quickdatabasediagrams.com).
 
+![alt text](https://github.com/Kaludii/sql-challenge/blob/main/ERD-export.png?raw=true)
+
 #### Data Engineering
 
 * Used the provided information to create a table schema for each of the six CSV files.
@@ -34,11 +36,3 @@ Inspected the CSVs and sketched out an ERD of the tables. Tool Used: [http://www
 7. Listed all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
 
 8. Listed the frequency count of employee last names (i.e., how many employees share each last name) in descending order.
-
-## Bonus
-
-1. Imported the SQL database into Pandas.
-
-2. Created a histogram to visualize the most common salary ranges for employees.
-
-3. Created a bar chart of average salary by title.
